@@ -25,7 +25,7 @@ public class HomeController {
                 "Java, Android Studio, SQLite, XML",
                 "https://drive.google.com/file/d/1C8R2F7vuqdlsAXGYMAXtZ9TYbaspQZi7/view?usp=drive_link",
                 "https://github.com/MayielRaja/MoneyMate",
-                "MoneyMate.jpeg"));
+                "Moneymate.jpg"));
         projects.add(new Project(
                 "Automated Smart Sericulture System",
                 "Designed an automated system for silkworm rearing using ESP32 to monitor and control environmental conditions, integrated with Firebase.",
